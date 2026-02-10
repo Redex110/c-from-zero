@@ -3,7 +3,7 @@
 C From Zero is a structured learning repository created to practice and understand
 the C programming language from the ground up.
 
-This repository contains small, focused programs organized by topic, covering
+This repository contains small, focused programs, covering
 core C concepts such as variables, control flow, functions, arrays, pointers,
 structures, and file handling.
 
