@@ -16,8 +16,8 @@ int main(void)
     area = height * width;
     perimeter = 2*(height + width);
 
-    printf("Area of Ractangle : %.2f cm\n", area);
-    printf("Perimeter of Ractangle : %.2f cm\u00B2 \n", perimeter);
+    printf("Area of Ractangle : %.2f cm\u00B2\n", area);
+    printf("Perimeter of Ractangle : %.2f cm\n", perimeter);
     printf("--------------------------------------\n");
 
     return 0;
